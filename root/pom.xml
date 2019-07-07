@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>ROOT</finalName>
+    <finalName>test_pro</finalName>
   </build>
 </project>
